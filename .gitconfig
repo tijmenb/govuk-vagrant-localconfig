@@ -1,0 +1,9 @@
+[user]
+  name = Tijmen Brommet
+  email = tijmen@gmail.com
+[color]
+  diff = auto
+  branch = auto
+  status = auto
+[push]
+  default = current
