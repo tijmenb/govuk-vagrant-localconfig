@@ -1,6 +1,7 @@
 [user]
   name = Tijmen Brommet
   email = tijmen@gmail.com
+  signingkey = CFD8E874
 [color]
   diff = auto
   branch = auto
