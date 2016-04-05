@@ -10,6 +10,7 @@ alias stage="git checkout staging"
 alias gc="git commit"
 alias ga="git add"
 alias gca="git commit -am"
+alias gco="git checkout"
 
 alias push="git push"
 alias pull="git pull"
