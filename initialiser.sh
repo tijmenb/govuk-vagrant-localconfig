@@ -2,9 +2,6 @@ if [ ! -d govuk ]; then
  ln -s /var/govuk govuk
 fi
 
-# make github.gds available on the VM
-grep -q 'github.gds' /etc/hosts || echo '192.168.9.110   github.gds' >> /etc/hosts
-
 if [ -f .gitconfig ]; then
   rm .gitconfig
 fi
